@@ -1,0 +1,9 @@
+ .showweather {
+    margin-top: 20px;
+    display: flex;
+    flex-flow: column nowrap;
+    background-color: rgb(169, 130, 207);
+    border-radius: 10px;
+  }
+  
+ 

@@ -1,0 +1,18 @@
+
+ 
+ .weather {
+  margin-top: 15%;
+  margin-left: 23%;
+    border: solid 3px white;
+    border-radius: 20px;
+    padding-bottom: 30px;
+    width: max-content;
+    padding: 0px 20px 20px 20px;
+    background-color:rgb(161, 152, 212);
+  }
+ 
+  body{
+    background-image: url(https://images.hdqwalls.com/download/hofn-austurland-snow-beach-4k-co-1920x1080.jpg);
+    height: 100%;
+    width: 100%;
+  }
